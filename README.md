@@ -1,0 +1,1 @@
+QoL=Quality of Life
